@@ -1,0 +1,22 @@
+input {
+    background-color: yellow;
+    margin:10px;
+}
+
+input[name="lastname"] {
+    font-weight:bold;
+}
+
+select {
+    margin:10px;
+}
+div {
+    border: 2px solid black;
+    background-color:#C0C0C0;
+    padding:20px;
+    margin:20px;
+}
+
+h1 {
+    text-align:center;
+}
